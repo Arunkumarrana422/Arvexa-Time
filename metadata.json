@@ -1,0 +1,6 @@
+{
+  "name": "Arvexa Time",
+  "description": "Advanced Stopwatch, Timer, Clock and Time Tools application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
